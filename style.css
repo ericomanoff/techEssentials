@@ -773,7 +773,7 @@ body.home .site-content {
 }
 
 
-#video { 
+#video {
 	min-height: 300px;
 }
 
@@ -788,11 +788,11 @@ body.home .site-content {
 // #video-background {
 // /*  making the video fullscreen  */
 //   position: fixed;
-//   right: 0; 
+//   right: 0;
 //   bottom: 0;
-//   min-width: 100%; 
+//   min-width: 100%;
 //   min-height: 100%;
-//   width: auto; 
+//   width: auto;
 //   height: auto;
 //   z-index: -100;
 // }
@@ -2218,6 +2218,39 @@ body.page-template-page_widgetized {
 .wp-custom-header .wp-custom-header-video-button:focus {
 	outline: none;
 }
+#atframework_skills-3 {
+    background-color: #1c1e20;
+    padding: 100px 0px;
+}
+
+#about, #skills{
+	padding: 100px 30px;
+	min-height: 645px;
+}
+
+#about{
+	background-color: #20252a;
+}
+#skills{
+	background-color: #181a1c;
+}
+
+#contact {
+		background:
+    /* top, transparent red */
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    /* your image */
+    url(./images/office-light.jpg);
+    min-height: 400px;
+    background-size: cover;
+		background-position: center;
+    display: flex;
+    align-items: center;
+}
+
 /*--------------------------------------------------------------
 ## Responsive
 --------------------------------------------------------------*/

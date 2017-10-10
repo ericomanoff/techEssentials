@@ -53,6 +53,7 @@ get_header();
             <p>Leverage our Cloud Hosting Services to find a custom and afforadable solution.</p>
           </div>
       </div>
+		</div><!--container-->
     </section>
 
 
@@ -98,68 +99,60 @@ get_header();
             </div>
           </div>
       </div>
-
-      </div>
     </section>
 
+    <section id="text-3" class="widget clearfix widget_text">
+
+			<div id="about" class="col-sm-6 text-col">
+
+					<h2 class="widget-title text-center" style="color:#ffffff;">
+						<span class="title-decoration"></span>ABOUT US
+					</h2>
+						<div class="textwidget">
+							<p>Technology Essentials is an Unified Communications and Cloud consulting company located in Fort Collins, CO and serves companies in Northern Colorado by providing them with the essential technology and IT applications they will need to do business – this includes email, file backup &amp; sharing, voice &amp; internet service, business phone systems, unified communications, cloud servers, and IT hardware &amp; software.  Our main goal is to give our customers the freedom and ability to not worry about their technology – so they can concentrate on their business.</p>
+							<p>Our hope is to be your partner of choice with respect to your company’s basic technology needs.</p>
+				   </div>
+
+		 </div>
+
+		 <div id="skills" class="col-sm-6 text-col">
+	      <div class="skill" style="color: inherit;">
+	        <div class="name" style="color: inherit;">Phone Systems</div>
+	              <div class="progress-bar" style="color: inherit;">
+	          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
+	        </div>
+	      </div>
+
+	      <div class="skill" style="color: inherit;">
+	        <div class="name" style="color: inherit;">Support</div>
+	              <div class="progress-bar" style="color: inherit;">
+	          <div class="progress-animate" style="width: 92%; color: inherit;"></div>
+	        </div>
+	      </div>
+
+	      <div class="skill" style="color: inherit;">
+	        <div class="name" style="color: inherit;">Custom Solutions</div>
+	              <div class="progress-bar" style="color: inherit;">
+	          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
+	        </div>
+	      </div>
+
+	      <div class="skill" style="color: inherit;">
+	        <div class="name" style="color: inherit;">Security</div>
+	              <div class="progress-bar" style="color: inherit;">
+	          <div class="progress-animate" style="width: 92%; color: inherit;"></div>
+	        </div>
+	      </div>
+
+	      <div class="skill" style="color: inherit;">
+	        <div class="name" style="color: inherit;">Mobile</div>
+	              <div class="progress-bar" style="color: inherit;">
+	          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
+	        </div>
+	      </div>
+			</div>
 
 
-
-
-
-
-
-<div class="multicolumn-row clearfix">
-
-    <section  style="background-color:#202529;padding-top:100px;padding-bottom:100px;background-image:url();" id="text-3" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>ABOUT US</h2>      <div class="textwidget">
-
-		<p>Technology Essentials is an Unified Communications and Cloud consulting company located in Fort Collins, CO and serves companies in Northern Colorado by providing them with the essential technology and IT applications they will need to do business – this includes email, file backup &amp; sharing, voice &amp; internet service, business phone systems, unified communications, cloud servers, and IT hardware &amp; software.  Our main goal is to give our customers the freedom and ability to not worry about their technology – so they can concentrate on their business.</p>
-		<p>Our hope is to be your partner of choice with respect to your company’s basic technology needs.</p>
-
-	   </div>
-    </div>
-  </section>
-
-    <section style="" id="atframework_skills-3" class="widget clearfix at-2-col atframework_skills_widget"><div class="atblock container" style="color: inherit;">
-
-
-                <div class="skill" style="color: inherit;">
-        <div class="name" style="color: inherit;">Phone Systems</div>
-              <div class="progress-bar" style="color: inherit;">
-          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
-        </div>
-      </div>
-
-                <div class="skill" style="color: inherit;">
-        <div class="name" style="color: inherit;">Support</div>
-              <div class="progress-bar" style="color: inherit;">
-          <div class="progress-animate" style="width: 92%; color: inherit;"></div>
-        </div>
-      </div>
-
-                <div class="skill" style="color: inherit;">
-        <div class="name" style="color: inherit;">Custom Solutions</div>
-              <div class="progress-bar" style="color: inherit;">
-          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
-        </div>
-      </div>
-
-                <div class="skill" style="color: inherit;">
-        <div class="name" style="color: inherit;">Security</div>
-              <div class="progress-bar" style="color: inherit;">
-          <div class="progress-animate" style="width: 92%; color: inherit;"></div>
-        </div>
-      </div>
-
-                <div class="skill" style="color: inherit;">
-        <div class="name" style="color: inherit;">Mobile</div>
-              <div class="progress-bar" style="color: inherit;">
-          <div class="progress-animate" style="width: 90%; color: inherit;"></div>
-        </div>
-      </div>
-
-
-  </div>
   </section>
 
   <section id="contact" class="text-center home-section">

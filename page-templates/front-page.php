@@ -22,21 +22,21 @@ get_header();
           <div class="col-sm-4">
             <i class="fa fa-phone" aria-hidden="true"></i>
             <h3>Business Phone Systems</h3>
-            <p>Affordable, feauture rich phone systems that help your business fly.</p>
+            <p>Affordable, feature-rich business phone systems along with local and dependable support.</p>
           </div>
+					<div class="col-sm-4">
+						<i class="fa fa-cloud" aria-hidden="true"></i>
+						<h3>Cloud Services</h3>
+						<p>Free cloud consulting, so you can consider whether or not the cloud is right for you.</p>
+					</div>
           <div class="col-sm-4">
             <i class="fa fa-server" aria-hidden="true"></i>
             <h3>Hosted Phone Service</h3>
-            <p>We'll handle your host your phone system so you can handle your business.</p>
-          </div>
-          <div class="col-sm-4">
-            <i class="fa fa-mobile" aria-hidden="true"></i>
-            <h3>Mobile Extension</h3>
-            <p>Seamlessly receive calls on your mobile while away from the office.</p>
+            <p>Local provider of computers, hardware, software, and IT solutions.</p>
           </div>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-sm-4">
             <i class="fa fa-envelope-o" aria-hidden="true"></i>
             <h3>Voice-to-Email</h3>
@@ -52,32 +52,32 @@ get_header();
             <h3>Cloud Services</h3>
             <p>Leverage our Cloud Hosting Services to find a custom and afforadable solution.</p>
           </div>
-      </div>
+      </div> -->
 		</div><!--container-->
     </section>
 
 
-    <section id="products" class="text-center home-section">
+    <!-- <section id="products" class="text-center home-section">
       <div class="container">
         <div class="row">
            <h1 class="text-upper bottom40 text-white">Products</h1>
            <p>Check out some of our most popular products.</p>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section id="products-2" class="text-center home-section-no-padding bg-white">
+    <!-- <section id="products-2" class="text-center home-section-no-padding bg-white">
       <div class="project">
           <div class="project-thumb">
-            <img width="500" height="310" src="<?php echo get_template_directory_uri(); ?>/images/prod-1.png" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
+            <img width="500" height="310" src="< ?php echo get_template_directory_uri(); ?>/images/phones.jpg" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
             <div class="project-content">
-              <h3 class="project-title"><a href="#">Product 1</a></h3>
+              <h3 class="project-title"><a href="#">Phone Systems</a></h3>
             </div>
           </div>
       </div>
       <div class="project">
           <div class="project-thumb">
-            <img width="500" height="310" src="<?php echo get_template_directory_uri(); ?>/images/prod-2.png" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
+            <img width="500" height="310" src="< ?php echo get_template_directory_uri(); ?>/images/prod-2.png" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
             <div class="project-content">
               <h3 class="project-title"><a href="#">Product 2</a></h3>
             </div>
@@ -85,7 +85,7 @@ get_header();
       </div>
       <div class="project">
           <div class="project-thumb">
-            <img width="500" height="310" src="<?php echo get_template_directory_uri(); ?>/images/prod-4.jpg" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
+            <img width="500" height="310" src="< ?php echo get_template_directory_uri(); ?>/images/prod-4.jpg" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
             <div class="project-content">
               <h3 class="project-title"><a href="#">Product 3</a></h3>
             </div>
@@ -93,13 +93,13 @@ get_header();
       </div>
       <div class="project">
           <div class="project-thumb">
-            <img width="500" height="310" src="<?php echo get_template_directory_uri(); ?>/images/prod-3.jpg" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
+            <img width="500" height="310" src="< ?php echo get_template_directory_uri(); ?>/images/prod-3.jpg" class="attachment-astrid-project-thumb size-astrid-project-thumb wp-post-image" alt="" />
             <div class="project-content">
               <h3 class="project-title"><a href="#">Product 4</a></h3>
             </div>
           </div>
       </div>
-    </section>
+    </section> -->
 
     <section id="text-3" class="widget clearfix widget_text">
 
